@@ -13,12 +13,12 @@ The goal is to collect, clean, and structure council information into machine‑
 - `db-unza26-csc4792-chilanga_population_and_wards.csv` → ward names and population figures  
 - `db-unza26-csc4792-chilanga.ipynb` → Jupyter Notebook used for scraping and cleaning  
 
-## 🔗 Links
+## Links
 - **Kaggle Dataset:** [Chilanga Council Dataset](ca://s?q=Upload_Chilanga_dataset_to_Kaggle)  
 - **Google Colab Notebook:** [Open in Colab](ca://s?q=Upload_Chilanga_notebook_to_Colab)  
 - **GitHub Repository:** [Chilanga Dataset Repo](ca://s?q=Push_Chilanga_dataset_to_GitHub)
 
-## ⚙️ Tools & Methods
+## Tools & Methods
 - Python libraries: `requests`, `BeautifulSoup`, `pandas`  
 - Manual data entry for services, projects, and wards  
 - Cleaning: duplicate removal, whitespace stripping, standardized delimiters (`|`)  
@@ -26,8 +26,4 @@ The goal is to collect, clean, and structure council information into machine‑
 ##License
 This dataset is released under the **MIT License** to encourage reuse, collaboration, and transparency.
 
----
 
-✅ With this README, your GitHub repo will look professional and complete.  
-
-Do you want me to also **generate the MIT License file text** so you can drop it into your repo alongside the README?
